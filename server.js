@@ -27,7 +27,7 @@ app.post('/api/test', (req, res) => {
               "items": [
                 {
                   "simpleResponse": {
-                    "textToSpeech": "webhook: this is a Google Assistant response"
+                    "textToSpeech": "First webhook: this is a Google Assistant response"
                   }
                 }
               ]
